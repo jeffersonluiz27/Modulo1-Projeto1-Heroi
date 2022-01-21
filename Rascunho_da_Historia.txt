@@ -1,0 +1,18 @@
+Script Jornada do Herói
+
+Você é um personagem de uma história em quadrinhos, mas você não é o personagem principal. Você então decide se tornar o herói da história e percorre uma longa jornada enfrentando diversos desafios e lutando contra diversos personagens para conseguir chegar na capa e colocar o seu nome no título da história.
+
+Responda as perguntas a seguir para descobrir se você chegou no seu objetivo. Use (S) para Sim e (N) para Não.
+
+Você encontrou o número da página que você aparece?
+Você identificou em que direção fica a capa?
+Você descobriu como saltar as páginas?
+Você descobriu quem são seus aliados?
+Você lembrou de pegar um pincel?
+Você encontrou o frasco de tinta?
+
+0 respostas Sim: Que pena, você falhou!! E ainda foi apagado da história!
+1 e 2: Que pena você falhou!!  Mas felizmente você se safou de ser apagado!
+3 e 4: Ops!! Você quase conseguiu! Mas o autor te descobriu antes de você chegar lá!
+5: Você conseguiu! Foi sofrido chegar até aqui, mas dava pra fazer melhor!!
+6: Parabéns!! Você alcançou seu objetivo com perfeição. Foram tão notáveis seus feitos, que o autor decidiu fazer uma serie de histórias sobre você!!!
