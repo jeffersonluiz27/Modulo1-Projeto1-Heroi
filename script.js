@@ -30,28 +30,28 @@ no seu objetivo. Use (S) para Sim e (N) para Não.\n
 `);
 
 // Pergunta 1
-question = '';
-while (question != 'S' && question != 'N') {
+question = '';                                 // Zerando a variavel
+while (question != 'S' && question != 'N') {   // Loop exibe a pergunta até o usuario digitar uma opção válida
   question = prompt(
     'Você encontrou o número da página em que você aparece? (S/N): '
-  ).toUpperCase();
-  if (question != 'S' && question != 'N') {
-    console.log('Opção invalida! Por favor escolha a opção certa!');
+  ).toUpperCase();                             // Convertendo a entrada para maiuscula
+  if (question != 'S' && question != 'N') {    // Verificando a entrada e exibindo erro se não corresponder como o esperado 
+    console.log('Opção invalida! Por favor escolha uma opção válida!');
   }
 }
 
-if (question == 'S') {
+if (question == 'S') {                         // Verifica se o usuario escolheu SIM e contabiliza
   answersY = answersY + 1;
 }
 
 //Pergunta 2
-question = '';
+question = ''; // Zerando a variavel
 while (question != 'S' && question != 'N') {
   question = prompt(
     'Você identificou em que direção fica a capa? (S/N): '
   ).toUpperCase();
   if (question != 'S' && question != 'N') {
-    console.log('Opção invalida! Por favor escolha a opção certa!');
+    console.log('Opção invalida! Por favor escolha uma opção válida!');
   }
 }
 
@@ -66,7 +66,7 @@ while (question != 'S' && question != 'N') {
     'Você descobriu como saltar as páginas? (S/N): '
   ).toUpperCase();
   if (question != 'S' && question != 'N') {
-    console.log('Opção invalida! Por favor escolha a opção certa!');
+    console.log('Opção invalida! Por favor escolha uma opção válida!');
   }
 }
 
@@ -81,7 +81,7 @@ while (question != 'S' && question != 'N') {
     'Você descobriu quem são seus aliados? (S/N): '
   ).toUpperCase();
   if (question != 'S' && question != 'N') {
-    console.log('Opção invalida! Por favor escolha a opção certa!');
+    console.log('Opção invalida! Por favor escolha uma opção válida!');
   }
 }
 
@@ -94,7 +94,7 @@ question = '';
 while (question != 'S' && question != 'N') {
   question = prompt('Você lembrou de pegar um pincel? (S/N): ').toUpperCase();
   if (question != 'S' && question != 'N') {
-    console.log('Opção invalida! Por favor escolha a opção certa!');
+    console.log('Opção invalida! Por favor escolha uma opção válida!');
   }
 }
 
@@ -107,16 +107,16 @@ question = '';
 while (question != 'S' && question != 'N') {
   question = prompt('Você encontrou o frasco de tinta? (S/N): ').toUpperCase();
   if (question != 'S' && question != 'N') {
-    console.log('Opção invalida! Por favor escolha a opção certa!');
+    console.log('Opção invalida! Por favor escolha uma opção válida!');
   }
 }
 
 if (question == 'S') {
   answersY = answersY + 1;
 }
-
 console.log();
 
+// Exibindo os resultados
 if (answersY == 0) {
   console.log('Que pena! Você falhou!! \nE ainda foi apagado da história!');
 } else if (answersY <= 2) {
