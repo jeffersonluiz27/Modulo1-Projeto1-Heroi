@@ -124,7 +124,7 @@ do {
     );
   } else if (answersY <= 4) {
     console.log(
-      'Ops!! Auryon quase conseguiu! \nMas o autor descobriu e impediu Auryon de chagar na capa!'
+      'Ops!! Auryon quase conseguiu! \nMas o autor descobriu o que ele estava fazendo \ne impediu Auryon de chagar na capa!'
     );
   } else if (answersY == 5) {
     console.log(
@@ -132,7 +132,7 @@ do {
     );
   } else if (answersY == 6) {
     console.log(
-      'Parabéns!! \nAuryon alcançou seu objetivo com perfeição. \nForam tão notáveis seus feitos, \nque o autor decidiu fazer uma série de histórias sobre Auryon!!!'
+      'Parabéns!! \nAuryon alcançou seu objetivo com perfeição. \nForam tão notáveis seus feitos, \nque o autor decidiu fazer uma série de histórias sobre ele!!!'
     );
   }
   console.log('');
