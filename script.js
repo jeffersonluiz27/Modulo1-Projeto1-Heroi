@@ -39,7 +39,7 @@ do {
   while (question != 'S' && question != 'N') {
     // Loop exibe a pergunta até o usuario digitar uma opção válida
     question = prompt(
-      'Auryon descobriu como saltar as páginas? (S/N): '
+      'Auryon descobriu como andar entre as páginas? (S/N): '
     ).toUpperCase(); // Convertendo a entrada para maiuscula
     if (question != 'S' && question != 'N') {
       // Verificando a entrada e exibindo erro se não corresponder como o esperado
