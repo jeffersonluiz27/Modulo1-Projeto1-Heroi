@@ -1,18 +1,26 @@
 Script Jornada do Herói
 
-Você é um personagem de uma história em quadrinhos, mas você não é o personagem principal. Você então decide se tornar o herói da história e percorre uma longa jornada enfrentando diversos desafios e lutando contra diversos personagens para conseguir chegar na capa e colocar o seu nome no título da história.
+Auryon é um personagem de uma história em quadrinhos, mas ele não é o personagem principal.
+O grandioso Lupan é o heroi cujo o nome está na capa, porém Lupan é um heroi que se aproveita 
+da boa vontade das pessoas para conseguir mais glorias.
+Indignado Auryon deseja fazer alguma coisa para o bem dos outros personagens.
+Lucius seu melhor amigo disse a Auryon que para se tornar um heroi, ele precisava ter seu nome escrito na capa!
+Auryon então decide se tornar o herói da história, mas isso não vai ser facil, porque o autor da hitória não
+pode descobrir o que ele está fazendo.
+Auryon então percorre uma longa jornada enfrentando diversos desafios e lutando contra diversos personagens,
+para então conseguir chegar na capa e colocar o seu nome no título da história sem que o autor descubra.
 
-Responda as perguntas a seguir para descobrir se você chegou no seu objetivo. Use (S) para Sim e (N) para Não.
+Responda as perguntas a seguir para descobrir se Auryon chegou no seu objetivo. Use (S) para Sim e (N) para Não.
 
-Você encontrou o número da página que você aparece?
-Você identificou em que direção fica a capa?
-Você descobriu como saltar as páginas?
-Você descobriu quem são seus aliados?
-Você lembrou de pegar um pincel?
-Você encontrou o frasco de tinta?
+Auryon descobriu como saltar as páginas?
+Auryon descobriu quem são seus aliados?
+Auryon conseguiu derrotar Lupan?
+Auryon lembrou de pegar um pincel?
+Auryon encontrou o frasco de tinta?
+Auryon conseguiu se esconder da sentinela?
 
-0 respostas Sim: Que pena, você falhou!! E ainda foi apagado da história!
-1 e 2: Que pena você falhou!!  Mas felizmente você se safou de ser apagado!
-3 e 4: Ops!! Você quase conseguiu! Mas o autor te descobriu antes de você chegar lá!
-5: Você conseguiu! Foi sofrido chegar até aqui, mas dava pra fazer melhor!!
-6: Parabéns!! Você alcançou seu objetivo com perfeição. Foram tão notáveis seus feitos, que o autor decidiu fazer uma serie de histórias sobre você!!!
+0 respostas Sim: Que pena, Auryon falhou!! E ainda foi apagado da história!
+1 e 2: Que pena, Auryon falhou!!  Mas felizmente ele se safou de ser apagado! O Autor te colocou na ultima página.
+3 e 4: Ops!! Auryon quase conseguiu! Mas o autor descobriu e impediu Auryon de chagar na capa!
+5: Auryon conseguiu! Foi sofrido chegar até aqui, mas dava pra fazer melhor! O Autor não gostou muito da mudança!
+6: Parabéns!! Auryon alcançou seu objetivo com perfeição. Foram tão notáveis seus feitos, que o autor decidiu fazer uma série de histórias sobre Auryon!!!
