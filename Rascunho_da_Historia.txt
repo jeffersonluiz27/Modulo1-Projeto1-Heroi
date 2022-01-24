@@ -1,6 +1,7 @@
 Script Jornada do Herói
 
-Você é um personagem de uma história em quadrinhos, mas você não é o personagem principal. Você então decide se tornar o herói da história e percorre uma longa jornada enfrentando diversos desafios e lutando contra diversos personagens para conseguir chegar na capa e colocar o seu nome no título da história.
+Você é um personagem de uma história em quadrinhos, mas você não é o personagem principal. 
+Você então decide se tornar o herói da história e percorre uma longa jornada enfrentando diversos desafios e lutando contra diversos personagens para conseguir chegar na capa e colocar o seu nome no título da história.
 
 Responda as perguntas a seguir para descobrir se você chegou no seu objetivo. Use (S) para Sim e (N) para Não.
 
