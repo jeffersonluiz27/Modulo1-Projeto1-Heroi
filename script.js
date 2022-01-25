@@ -139,13 +139,14 @@ do {
   }
   console.log('');
 
+  // Verifica se o usuario quer jogar novamente
   do {
     newGame = prompt(
       'Quer jogar de novo?: Use (S) para Sim e (N) para Não (SAIR). '
     ).toUpperCase();
     if (newGame != 'S' && newGame != 'N') {
       console.log('\nOpção invalida! Use (S) para Sim e (N) para Não.\n');
-    } else{
+    } else {
       if (newGame == `S`) {
         console.clear();
         console.log();
