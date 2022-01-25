@@ -15,7 +15,7 @@ var newGame;
 
 do {
   answersY = 0;
-  newGame = ' ';
+  newGame = '';
 
   // Apresentando Background da história
   console.log();
@@ -37,84 +37,83 @@ do {
   chegou no seu objetivo. Use (S) para Sim e (N) para Não.\n
   `);
 
-  // Pergunta 1
-  question = ''; // Zerando a variavel
-  while (question != 'S' && question != 'N') {
-    // Loop exibe a pergunta até o usuario digitar uma opção válida
+  //Pergunta 1
+  question = '';
+  do {
     question = prompt(
-      'Auryon descobriu como andar entre as páginas? (S/N): '
-    ).toUpperCase(); // Convertendo a entrada para maiuscula
-    if (question != 'S' && question != 'N') {
-      // Verificando a entrada e exibindo erro se não corresponder como o esperado
-      console.log('\nOpção invalida! Use (S) para Sim e (N) para Não.\n');
-    } else if (question == 'S') {
-      // Verifica se o usuario escolheu SIM e contabiliza
-      answersY++;
-    }
-  }
-
-  //Pergunta 2
-  question = ''; // Zerando a variavel
-  while (question != 'S' && question != 'N') {
-    question = prompt(
-      'Auryon descobriu quem são seus aliados? (S/N): '
+      '1 - Auryon descobriu como andar entre as páginas? (S/N): '
     ).toUpperCase();
     if (question != 'S' && question != 'N') {
       console.log('\nOpção invalida! Use (S) para Sim e (N) para Não.\n');
     } else if (question == 'S') {
       answersY++;
     }
-  }
+  } while (question != 'S' && question != 'N');
+
+  //Pergunta 2
+  question = '';
+  do {
+    question = prompt(
+      '2 - Auryon descobriu quem são seus aliados? (S/N): '
+    ).toUpperCase();
+    if (question != 'S' && question != 'N') {
+      console.log('\nOpção invalida! Use (S) para Sim e (N) para Não.\n');
+    } else if (question == 'S') {
+      answersY++;
+    }
+  } while (question != 'S' && question != 'N');
 
   //Pergunta 3
   question = '';
-  while (question != 'S' && question != 'N') {
-    question = prompt('Auryon conseguiu derrotar Lupan? (S/N): ').toUpperCase();
+  do {
+    question = prompt(
+      '3 - Auryon conseguiu derrotar Lupan? (S/N): '
+    ).toUpperCase();
     if (question != 'S' && question != 'N') {
       console.log('\nOpção invalida! Use (S) para Sim e (N) para Não.\n');
     } else if (question == 'S') {
       answersY++;
     }
-  }
+  } while (question != 'S' && question != 'N');
 
   //Pergunta 4
   question = '';
-  while (question != 'S' && question != 'N') {
+  do {
     question = prompt(
-      'Auryon lembrou de pegar um pincel? (S/N): '
+      '4 - Auryon lembrou de pegar um pincel? (S/N): '
     ).toUpperCase();
     if (question != 'S' && question != 'N') {
       console.log('\nOpção invalida! Use (S) para Sim e (N) para Não.\n');
     } else if (question == 'S') {
       answersY++;
     }
-  }
+  } while (question != 'S' && question != 'N');
 
   //Pergunta 5
   question = '';
-  while (question != 'S' && question != 'N') {
+  do {
     question = prompt(
-      'Auryon encontrou o frasco de tinta? (S/N): '
+      '5 - Auryon encontrou o frasco de tinta? (S/N): '
     ).toUpperCase();
     if (question != 'S' && question != 'N') {
       console.log('\nOpção invalida! Use (S) para Sim e (N) para Não.\n');
     } else if (question == 'S') {
       answersY++;
     }
-  }
+  } while (question != 'S' && question != 'N');
 
   //Pergunta 6
   question = '';
-  while (question != 'S' && question != 'N') {
+  do {
     question = prompt(
-      'Auryon conseguiu se esconder da sentinela? (S/N): '
+      '6 - Auryon conseguiu se esconder da sentinela? (S/N): '
     ).toUpperCase();
     if (question != 'S' && question != 'N') {
       console.log('\nOpção invalida! Use (S) para Sim e (N) para Não.\n');
     } else if (question == 'S') {
       answersY++;
     }
-  }
+  } while (question != 'S' && question != 'N');
 
   console.log();
 
