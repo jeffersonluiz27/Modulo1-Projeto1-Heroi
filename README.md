@@ -1,7 +1,5 @@
-# Modulo1 - Projeto1 - Jornada do Heroi
+# Projeto1 - A Jornada do Heroi
 #### Primeiro Projeto do modulo 1 do curso de FullStack na Blue Edtech
-
-## Projeto 1 - A Jornada do Herói 
 
 Hoje nós começamos o nosso primeiro projeto entregável! Esse projeto vai  avaliar os conteúdos passados durante essa primeira semana, e se você  consegue desenvolver uma programação utilizando todos eles. 
 Você poderá usar as aulas de Codelab para trabalhar no seu projeto. 
